@@ -1,16 +1,15 @@
-- 👋 Hi, I’m Alex
-- 👀 I’m interested in Software Development Engineer
+👋 Hi, I’m lenband
 
 ## Xlog
 
 <picture>
   <source
     media="(prefers-color-scheme: light)"
-    srcSet="https://xlog-card.vercel.app/api/Alex-Programer?theme=light"
+    srcSet="https://xlog-card.vercel.app/api/lenband?theme=light"
   />
   <source
     media="(prefers-color-scheme: dark)"
-    srcSet="https://xlog-card.vercel.app/api/Alex-Programer?theme=dark"
+    srcSet="https://xlog-card.vercel.app/api/lenband?theme=dark"
   />
-  <img src="https://xlog-card.vercel.app/api/Alex-Programer?theme=light" alt="" />
+  <img src="https://xlog-card.vercel.app/api/lenband?theme=light" alt="" />
 </picture>
